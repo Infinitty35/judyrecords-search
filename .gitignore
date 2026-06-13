@@ -1,0 +1,12 @@
+# Never commit your real API key to GitHub!
+.env
+
+# Node.js dependencies folder
+node_modules/
+
+# Mac system file
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
